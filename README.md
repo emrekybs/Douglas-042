@@ -10,7 +10,7 @@ DOUGLAS-042 stands as an ingenious embodiment of a PowerShell script meticulousl
 
 
 # Usage
-Using administrative privileges, just run the script from a PowerShell console
+Using administrative privileges, just run the script from a PowerShell console, then the results will be saved in the directory as a txt file.
 
     $ PS >./douglas.ps1
     
