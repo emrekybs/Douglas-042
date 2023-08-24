@@ -1,12 +1,10 @@
-Forensic and incident response
-This tool will help you on your Incident Response and Forensic
 # Douglas-042
-[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)
+[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
 
 
-NETWORK Pcap File Analysis
+Forensic and incident response
 
-It was developed to speed up the processes of SOC Analysts during analysis🕷️
+This tool will help you on your Incident Response and Forensic
 
 <img src="https://github.com/emrekybs/Douglas-042/blob/main/gif.png">
 
