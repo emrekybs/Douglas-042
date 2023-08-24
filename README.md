@@ -8,7 +8,7 @@ NETWORK Pcap File Analysis
 
 It was developed to speed up the processes of SOC Analysts during analysis🕷️
 
-<img src="https://github.com/emrekybs/Bryobio/blob/main/1.gif">
+<img src="https://github.com/emrekybs/Douglas-042/blob/main/BLUE%20TEAM.png">
 
 Tested
 ```sh
