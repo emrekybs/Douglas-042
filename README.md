@@ -8,9 +8,11 @@ This tool will help you on your Incident Response and Forensic
 
 <img src="https://github.com/emrekybs/Douglas-042/blob/main/gif.png">
 
-<img src="https://github.com/emrekybs/Douglas-042/blob/main/png.jpg">
 
 # Usage
-Using administrators privileges.
+Using administrative privileges, just run the script from a PowerShell console
+PS >.\douglas.ps1
+<img src="https://github.com/emrekybs/Douglas-042/blob/main/png.jpg">
 
-PS >.\trident.ps1
+#Advance using
+PS >.\douglas.ps1 -a
