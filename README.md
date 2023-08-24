@@ -9,10 +9,10 @@ DOUGLAS-042 stands as an ingenious embodiment of a PowerShell script meticulousl
 
 ### Content Queries
 * General information
-* ACCOUNT AND GROUP INFORMATION
+* Accountand group information
 * Network
 * Process Information
-* OS BUILD AND HOTFIXES
+* OS Build and HOTFIXE 
 * Persistence
 * HARDWARE Information
 * Encryption information
