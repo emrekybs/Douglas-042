@@ -11,9 +11,10 @@ This tool will help you on your Incident Response and Forensic
 
 # Usage
 Using administrative privileges, just run the script from a PowerShell console
-    $ PS >./douglas.ps1
+
+$ PS >./douglas.ps1
     
-    #Advance usage
-    $ PS >./douglas.ps1 -a
+#Advance usage
+$ PS >./douglas.ps1 -a
 
 <img src="https://github.com/emrekybs/Douglas-042/blob/main/png.jpg">
