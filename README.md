@@ -10,9 +10,9 @@ This tool will help you on your Incident Response and Forensic
 
 
 # Usage
+    $ PS >.\douglas.ps1
+
 Using administrative privileges, just run the script from a PowerShell console
 PS >.\douglas.ps1
-<img src="https://github.com/emrekybs/Douglas-042/blob/main/png.jpg">
 
-#Advance using
-PS >.\douglas.ps1 -a
+<img src="https://github.com/emrekybs/Douglas-042/blob/main/png.jpg">
