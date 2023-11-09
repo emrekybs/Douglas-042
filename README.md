@@ -25,6 +25,7 @@ DOUGLAS-042 stands as an ingenious embodiment of a PowerShell script meticulousl
 * LOG queries
 * Instllation of Software
 * User activity
+### Advanced Queries
 * Prefetch file information
 * DLL List
 * WMI filters and consumers
