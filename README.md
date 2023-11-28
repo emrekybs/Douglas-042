@@ -1,5 +1,4 @@
-# Douglas-042 
-# Threat Hunting
+# Douglas-042 - Threat Hunting
 # Incident Response - PowerShell Hunting
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
 
