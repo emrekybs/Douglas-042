@@ -1,5 +1,5 @@
 # Douglas-042 
-# Offense By Defense Blue Team 
+# Threat Hunting
 # Incident Response - PowerShell Hunting
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
 
