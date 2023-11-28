@@ -4,7 +4,9 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
 
 <img src="https://github.com/emrekybs/Douglas-042/blob/main/blue.jpg">
-<img src="https://github.com/emrekybs/Douglas-042/blob/main/Starting.mp4">
+
+# Video
+     $https://www.youtube.com/watch?v=8KVeNvA6M0s
 
 DOUGLAS-042 stands as an ingenious embodiment of a PowerShell script meticulously designed to expedite the triage process and facilitate the meticulous collection of crucial evidence derived from both forensic artifacts and the ephemeral landscape of volatile data. Its fundamental mission revolves around providing indispensable aid in the arduous task of pinpointing potential security breaches within Windows ecosystems. With an overarching focus on expediency, DOUGLAS-042 orchestrates the efficient prioritization and methodical aggregation of data, ensuring that no vital piece of information eludes scrutiny when investigating a possible compromise. As a testament to its organized approach, the amalgamated data finds its sanctuary within the confines of a meticulously named text file, bearing the nomenclature of the host system's very own hostname. This practice of meticulous data archival emerges not just as a systematic convention, but as a cornerstone that paves the way for seamless transitions into subsequent stages of the Forensic journey.
 
