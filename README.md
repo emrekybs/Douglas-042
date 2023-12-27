@@ -1,8 +1,7 @@
 # Douglas-042 - Threat Hunting 
-<img src="https://github.com/emrekybs/Douglas-042/blob/main/blue.jpg">
 # Incident Response - PowerShell Hunting
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
-
+<img src="https://github.com/emrekybs/Douglas-042/blob/main/blue.jpg">
 <img src="https://github.com/emrekybs/Douglas-042/blob/main/Douglas.png">
 
 # Video
