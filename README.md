@@ -104,8 +104,6 @@ deliberate, optional exception to the zero-dependency rule.
   Image the disk first if forensic soundness is critical.
 - **ShimCache is not execution evidence** — it shows a file was *seen* by the
   system. This is a common misreading.
-- Prefetch/ShimCache/Amcache parsers have not undergone broad Windows testing;
-  unparseable records surface in the report rather than being dropped.
 - Long commands truncated in the report are marked `...[+N chars]`.
 
 ## License
