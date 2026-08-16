@@ -37,7 +37,7 @@ against 151 built-in detection rules, and produces a single-file offline HTML re
 ## Menu
 
 ```
-   Sigma: ready   YARA: none   MITRE: ready
+   Sigma: ready   YARA: ready   MITRE: ready
 
   -- COLLECTION MODES --
    [1] Standard collection   Phase 0-3, last 14 days
