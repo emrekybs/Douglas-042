@@ -8,6 +8,10 @@ Set-ExecutionPolicy -Scope Process Bypass -Force
 .\Douglas-042.ps1
 ```
 
+| Script | Purpose |
+|---|---|
+| `Douglas-042.ps1` | Full IR: 153 detection rules, risk scoring, HTML report |
+| `Douglas-Lite.ps1` | Fast text snapshot, no analysis - run and read |
 That's it — a menu opens. Run as **Administrator**.
 
 Example report: [docs/REPORT-example.html](docs/REPORT-example.html)
