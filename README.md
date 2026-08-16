@@ -16,6 +16,7 @@ Set-ExecutionPolicy -Scope Process Bypass -Force
 That's it — a menu opens. Run as **Administrator**.
 
 Example report: [docs/REPORT-example.html](docs/REPORT-example.html)
+<img src="docs/images/mitre.png" width="800">
 
 ---
 
