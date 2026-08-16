@@ -1,7 +1,7 @@
 # Douglas-042
 <img src="docs/images/douglas.png" width="400">
 
-Menu-driven, single-file Windows incident response and threat hunting collector.
+PowerShell - Windows incident response and threat hunting collector.
 No external modules required. Works on PowerShell 5.1+ and PowerShell 7.
 
 ```powershell
